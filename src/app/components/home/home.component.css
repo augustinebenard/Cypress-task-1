@@ -1,0 +1,33 @@
+.hero-img img {
+  height: 500px;
+  width: 100%;
+  margin: 5px;
+}
+
+.portfolio-details {
+  font-family: "Poppins", sans-serif;
+  color: red !important;
+  font-weight: 600;
+
+
+}
+
+
+.project-heading{
+  font-weight: 600;
+
+}
+
+.call-to-action{
+  background-color: #2C3878;
+  color: white;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+
+@media screen and (max-width: 400px) {
+  .hero-img img {
+    height: 200px;
+  }
+}
